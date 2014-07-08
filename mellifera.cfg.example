@@ -1,0 +1,10 @@
+# CHANGE THESE!
+to=jamie@honeynet.org
+from=jamie@honeynet.org
+#be VERY careful and make sure this is only sending traffic to computers YOU own
+use_active_response=0
+#this defaults to /tmp/melifera - no trailing slash please
+op_dir=/tmp/melifera
+#you may also define errors_to if you want emails about low disk space to go to a 
+#different team
+
